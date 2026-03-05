@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="../waste-event/WasteEventLib/WasteEventLib.csproj" />
+  <Project Path="wasteevent.client/wasteevent.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="WasteEvent.Server/WasteEvent.Server.csproj" />
+</Solution>
